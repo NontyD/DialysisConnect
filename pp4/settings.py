@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-nb%w0zoybih437q$1g^+$6di143xx0)qh4p63!ub22*1!aj9#v
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['8000-nontyd-dialysisconnect-j4vj0icp7px.ws.codeinstitute-ide.net']
+ALLOWED_HOSTS = ['8000-nontyd-dialysisconnect-j4vj0icp7px.ws.codeinstitute-ide.net','.herokuapp.com']
 
 
 # Application definition
